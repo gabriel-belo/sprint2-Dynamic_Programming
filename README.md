@@ -1,5 +1,15 @@
 # sprint2-Dynamic_Programming
 
+Arthur Abonizio RM555506
+
+Gabriel Padula RM554907
+
+Gustavo Pierri RM558928
+
+Rodrigo Nakata RM556417
+
+Gabriel Belo RM551669
+
 # Projeto: Dynamic Programming para Controle de Consumo de Insumos
 
 ### Contexto: 
